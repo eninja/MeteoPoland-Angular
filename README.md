@@ -1,7 +1,7 @@
 # MeteoPoland-Angular
 [![Build Status](https://travis-ci.org/eninja/MeteoPoland-Angular.svg?branch=master)](https://travis-ci.org/eninja/MeteoPoland-Angular)
 
-Status: Scratch, work in progress
+Status: Seed, work in progress
 
 ####**Angular frontend for MeteoPoland-API.**
 
